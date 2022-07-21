@@ -4,7 +4,7 @@
 
 This package is an illustration of how one might implement an application framework in Python. The application doesn't really do anything, but the code illustrates some concepts which is useful to build larger applications.
 
-1. Units of work are encapsulated as __active objects__ which communicate with other objects via a messaging system. 
+1. __active objects__ which communicate with other objects via a messaging system. 
 
 1. Use of event subject to broadcast user interaction and internal events to listeners. 
 
